@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/commands.dir/src/Main.cpp.o -o commands 
