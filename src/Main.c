@@ -9,5 +9,7 @@ int main(){
 	scanf("%s", firstname);
 	printf("Hello, %s\n", firstname);
 
+	printf("You have now entered the world of C coding");
+
 	return 0;
 }
