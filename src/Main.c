@@ -2,7 +2,7 @@
 
 int main(){
 
-	char firstname[20];
+	char firstname[20] = "Andrew";
 
 	printf("Enter your name: ");
 	fflush(stdout);
