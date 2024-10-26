@@ -1,0 +1,3 @@
+/home/andrew/Documents/SystemDev/homeservercommands/CMakeFiles/commands.dir
+/home/andrew/Documents/SystemDev/homeservercommands/CMakeFiles/edit_cache.dir
+/home/andrew/Documents/SystemDev/homeservercommands/CMakeFiles/rebuild_cache.dir
