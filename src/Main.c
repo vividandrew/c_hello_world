@@ -6,7 +6,7 @@ int main(){
 
 	printf("Enter your name: ");
 	fflush(stdout);
-	scanf("%s", &firstname);
+	scanf("%s", firstname);
 	printf("Hello, %s\n", firstname);
 
 	return 0;
